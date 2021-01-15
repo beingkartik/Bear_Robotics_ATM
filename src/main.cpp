@@ -8,7 +8,7 @@
 using namespace std;
 int main(int argc, char** argv){
 
-    cout <<"hello world"<<endl;
+//   cout <<"hello world"<<endl;
 //    ttl.MakeItRain();
 
     int starting_amount_in_bank = 10000;
