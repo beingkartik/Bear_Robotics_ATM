@@ -136,7 +136,7 @@ bool ATM::performTransaction(int user_id, vector<int>&user_accounts){
 }
 
 void ATM::startAtmFromStart(){
-    cout << endl<<endl<< "Welcome to Bear my_bank" << endl;
+    cout << endl<<endl<< "Welcome to Bear Robotics Bank" << endl;
     cout << "Insert card into the slot" << endl;
 
 
