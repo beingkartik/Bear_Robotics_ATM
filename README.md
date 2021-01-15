@@ -40,3 +40,4 @@ Method 1: Using Git Clone
  - In the system, a card number has a corresponding user id
  - Each card number can have multiple accounts associated with it 
  
+### Note : The user and account data is read using relative paths. In case of error in reading file, provide the absolute path to the project directory in main.cpp
